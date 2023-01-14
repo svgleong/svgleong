@@ -2,7 +2,9 @@
 
 ## Hi, I'm Sofia Leong 👋
 
-### I'm a Computer Science student at 42 Lisboa. This is my progress so far 👩🏻‍💻
+### I'm a Computer Science student at 42 Lisboa. This is my progress so far! 👩🏻‍💻
+
+[![svalente's 42 stats](https://badge.mediaplus.ma/landscapes/svalente?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
