@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/sofia-leong-a24542103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sofia-leong-a24542103" height="30" width="40" /></a>
 </p>
 
-## 📫 How to reach me **sofia.leong@netcabo.pt**
+##### 📫 How to reach me **sofia.leong@netcabo.pt**
 
 
 <!--
